@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello CMU, Joshua has been at World for 20 years");
+        System.out.println("Hello CMU, Joshua has been at World for 20 years and has had Ligma for 3 of those years!");
     }
 
 }
